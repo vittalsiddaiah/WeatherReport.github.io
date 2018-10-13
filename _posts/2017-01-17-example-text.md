@@ -4,7 +4,7 @@ date:   2018-10-10 23:37:00
 categories: text
 ---
 
-![alt text](https://github.com/vittalsiddaiah/UTDataAnalyticsAssignments/blob/master/images/WeatherReport.png?raw=true)
+![alt text](https://github.com/vittalsiddaiah/UTDataAnalyticsAssignments/blob/master/images/WeatherReportConsolidated.png?raw=true)
 
 This is an **analysis and visualization** of ***weather*** of 550+ cities across the world. The main objective was to showcase the relationship of various factors like temperature, humidity, cloudiness and wind speed with respect to the distance from the equator. 
 

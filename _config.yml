@@ -30,3 +30,4 @@ defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", 
 sass: {style: expanded}
 plugins: 
   - jekyll-feed
+  - jekyll-paginate
