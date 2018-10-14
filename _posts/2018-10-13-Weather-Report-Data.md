@@ -4,12 +4,10 @@ date:   2018-10-10 23:37:00
 categories: text
 ---
 
-> NOTE: Page too lengthy
-### Code
+> ***NOTE:- Page too lengthy***
 
 {% highlight c %}
 converted csv to md...
-
 {% endhighlight %}
 
 # **Table**
