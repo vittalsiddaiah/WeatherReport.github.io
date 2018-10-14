@@ -14,10 +14,20 @@ In conclusion, an equatorial climate is a type of tropical climate in which ther
 
 <img src="{{site.baseurl}}/assets/WeatherReports/LatitudeVsTemperture.png">
 
-Humidity increses as towards the equator. Most of the places near equator have a tropical climate.
+Temperature raises at the equator. Most of the places near equator have a tropical climate.
+
 
 
 <img src="{{site.baseurl}}/assets/WeatherReports/LatitudeVsHumidity.png"> 
+
+Humidity seems to be uniformly distributed across the latitude and seems to be dense and higher.
+
+
 <img src="{{site.baseurl}}/assets/WeatherReports/LatitudeVsCloudiness.png"> 
+
+Cloudiness is been uniformly distributed
+
+
 <img src="{{site.baseurl}}/assets/WeatherReports/LatitudeVsWindSpeed.png"> 
 
+The wind speed is not much affected by the distance from the equator, it’s almost moderate throughout the globe.
